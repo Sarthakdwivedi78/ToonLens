@@ -10,6 +10,12 @@ Instantly cartoonify your world! 🎨 This Streamlit web app uses OpenCV to tran
 
 ---
 
+<img width="631" height="269" alt="Screenshot 2025-10-26 164607" src="https://github.com/user-attachments/assets/5f0a367e-87b9-4268-b25e-4fb99f2bb929" />
+<img width="908" height="348" alt="Screenshot 2025-10-26 164530" src="https://github.com/user-attachments/assets/13e3dd2a-561f-4341-95cc-9d9af8527904" />
+<img width="895" height="400" alt="Screenshot 2025-10-26 170417" src="https://github.com/user-attachments/assets/d75ee45e-e9bf-4716-9b01-b541fc16a59b" />
+
+
+
 ## ✨ Features
 
 * **Dual Input Modes:** Choose between uploading a static image (`.jpg`, `.png`) or capturing a live photo from your webcam.
