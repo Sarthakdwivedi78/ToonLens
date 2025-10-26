@@ -1,7 +1,6 @@
 # 🎨 ToonLens: The Live Cartoonifier App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
-*(Deploy your app to Streamlit Community Cloud to get a live URL for this badge!)*
+
 
 Instantly cartoonify your world! 🎨 This Streamlit web app uses OpenCV to transform any image into a cartoon. Upload a photo or capture one live from your webcam. 📸 Use built-in sliders to adjust line thickness, blur, and color quantization for the perfect look. Download your finished cartoon with a single click.
 
